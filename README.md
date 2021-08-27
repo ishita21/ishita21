@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ishita
 - 👀 I’m interested in Data Science Technologies, Statistical Approaches, Data Modelling and everything related to Data Analysis.
 - 🌱 I’m currently learning Supply Chain Management.
-- 📫 Drop a mail at ishita.mandal@gmail.com
+- 📫 Drop a mail at mandal.ishita@gmail.com
